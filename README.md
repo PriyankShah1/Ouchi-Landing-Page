@@ -32,6 +32,23 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 git clone https://github.com/yourusername/ouchi-landing-page.git
 cd ouchi-landing-page
 
+2. Install\
+
+npm install
+
+3. Start the development server
+
+npm run dev
+
+
+
+### Views
+![image](https://github.com/PriyankShah1/Ouchi-Landing-Page/assets/88923764/b39729e7-4715-46b2-a449-e390c5cdfaac)
+
+![image](https://github.com/PriyankShah1/Ouchi-Landing-Page/assets/88923764/5e58b0c3-57eb-4f8d-8f45-4e193da34a21)
+
+
+
 
 
 
