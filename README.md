@@ -24,6 +24,14 @@ Welcome to the Ouchi Landing Page, a modern, sleek, and responsive landing page 
 
 Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on your machine.
 
+
+## Screenshot
+
+
+![Project ScreenShot](https://github.com/PriyankShah1/Ouchi-Landing-Page/blob/103fabc67c327a7a139c002238413866a1acbff6/304221630-b39729e7-4715-46b2-a449-e390c5cdfaac.png)
+![Project ScreenShot](https://github.com/PriyankShah1/Ouchi-Landing-Page/blob/103fabc67c327a7a139c002238413866a1acbff6/web2%20.JPG)
+
+
 ### Installation
 
 1. Clone the repository:
@@ -32,25 +40,7 @@ Before you begin, ensure you have [Node.js](https://nodejs.org/) installed on yo
 git clone https://github.com/yourusername/ouchi-landing-page.git
 cd ouchi-landing-page
 
-2. Install
-
 npm install
 
-3. Start the development server
-
 npm run dev
-
-
-
-## Screenshot
-
-![Project Screenshot](web2.JPG)
-
-
-
-
-
-
-
-
-
+ ```
